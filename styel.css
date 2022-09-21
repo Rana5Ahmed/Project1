@@ -1,0 +1,57 @@
+@media (max-width: 300px) {
+    nav, article {
+      width: 100px;;
+      height: auto;
+    }
+
+}
+body{
+background-color: #f1f1ea;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-size:1.25em;
+color: #132620;
+}
+h2{
+
+color: #132620;
+    
+}
+ ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #132620;
+
+  }
+  
+   li {
+        scroll-margin-top: 50px;
+      
+    float: left;
+  }
+
+
+
+  
+  li a {
+    display: block;
+    color: #d1b175;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:larger;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  li a:active{
+    background-color:#f4ebd0;
+ 
+    
+  }
