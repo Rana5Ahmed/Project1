@@ -11,10 +11,10 @@ Landing  First Page
 this project has the both static & dynamic sides:
 Static such is HTML &CSS<br>
 Dynamic with Js<br>
-1. <h4>Static</h4> <br>
+<h4>1.Static</h4> <br>
 1.1. HTML "p,section,div,footer,h1,h2,span,ect"<br>
 1.2. CSS "background-image,float,padding,margin,width,ect"<br>
-2.<h4>Dynamic</h4><br>
+<h4> 2.Dynamic</h4><br>
 2.1.JS <br>
 used java script to do {<br>
 1.Dynamic nav bar by using append.child()<br>
