@@ -24,3 +24,9 @@ used java script to do {<br>
 1.you can use this page to post or add any newpart in navbar<br>
 2. Know your position in page ("left,top,width,height")<br>
 3. Esay find page.
+<h3<Resources</h3>
+<ul>
+  <li>https://www.w3schools.com/howto/howto_js_scroll_to_top.asp</li>
+<li>https://developer.mozilla.org/en-US/docs/Glossary/Viewport</li>
+<li>https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect</li>
+</ul>
